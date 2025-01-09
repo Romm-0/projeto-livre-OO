@@ -17,3 +17,4 @@ Pelo terminal apos estar na pasta com o codigo do programa basta digitar "python
 ##Limitacoes do programa
 *Sempre que o usuario usar o botao de gerar matriz duas matrizes serao criadas
 *A memoria salva um unico conjunto de matrizes e nao salva individualmente
+*O front deixa a desejar em alguns aspectos
