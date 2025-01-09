@@ -15,4 +15,5 @@ Para baixar o tkinter basta digitar o comando "sudo apt install python3-tk"
 Pelo terminal apos estar na pasta com o codigo do programa basta digitar "python3 calculadora.py"
 
 ##Limitacoes do programa
-Sempre qu
+*Sempre que o usuario usar o botao de gerar matriz duas matrizes serao criadas
+*A memoria salva um unico conjunto de matrizes e nao salva individualmente
